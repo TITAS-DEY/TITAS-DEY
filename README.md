@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TITAS-DEY
-- 👀 I’m interested in ...web dev,web rtc,algorqithms,electronics
+- 👀 I’m interested in ...web dev,web rtc,algorithms,electronics
 - 🌱 I’m currently learning ...mern stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Titas_Dey_
